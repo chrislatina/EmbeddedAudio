@@ -1,6 +1,6 @@
 # Embedded Music
 
-_This repsitory documents how setup embedded devices, such as the Raspberry Pi for development with audio software at GTCMT._
+_This repository documents how setup embedded devices, such as the Raspberry Pi for development with audio software at GTCMT._
 
 ## Focus
 
@@ -13,7 +13,7 @@ Overall, Supercollider works well for internal synthesis, but realtime audio pro
 * [Setup Your Pi](/tutorials/Setup_Your_Pi.md)
 * [Sharing your network with Pi (OSX)](/tutorials/Sharing_your_network_with_Pi_(OSX).md)
 * [Running SuperCollider on Pi](/tutorials/Running_SuperCollider_on_Pi.md)
-* Using a USB Audio Interface with Pi
+* [Using a USB Audio Interface with Pi](/tutorials/Using_a_USB_Audio_Interface_with_Pi.md)
 * Installing Quarks on Pi
 * Compiling SuperCollider with PortAudio
 * Setting up WIFI with GTother
