@@ -1,6 +1,6 @@
 # Embedded Music
 
-_This reository documents how setup embedded devices, such as the Raspberry Pi for development with audio software at GTCMT._
+_This repsitory documents how setup embedded devices, such as the Raspberry Pi for development with audio software at GTCMT._
 
 ## Focus
 
