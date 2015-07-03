@@ -8,7 +8,7 @@ The focus of this section is to evaluate whether SuperCollider is a feasible dev
 
 ## Tutorials
 
-* Sharing your network with Pi (OSX)
+* [Sharing your network with Pi (OSX)](/tutorials/Sharing_your_network_with_Pi_(OSX).md)
 * Running SuperCollider on Pi
 * Using a USB Audio Interface with Pi
 * Installing Quarks on Pi
