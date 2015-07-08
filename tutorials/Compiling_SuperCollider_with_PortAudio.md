@@ -6,7 +6,7 @@ The goal of this tutorial is to recompile SuperCollider with the PortAudio flag 
 
 
 ## References
-[https://www.raspberrypi.org/forums/viewtopic.php?f=31&t=26435](https://www.raspberrypi.org/forums/viewtopic.php?f=31&t=26435)
-[http://swiki.hfbk-hamburg.de/MusicTechnology/479](http://swiki.hfbk-hamburg.de/MusicTechnology/479)
-[http://stackoverflow.com/questions/20850213/supercollider-without-jack-server](http://stackoverflow.com/questions/20850213/supercollider-without-jack-server)
-[http://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx](http://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx)
+* [https://www.raspberrypi.org/forums/viewtopic.php?f=31&t=26435](https://www.raspberrypi.org/forums/viewtopic.php?f=31&t=26435)
+* [http://swiki.hfbk-hamburg.de/MusicTechnology/479](http://swiki.hfbk-hamburg.de/MusicTechnology/479)
+* [http://stackoverflow.com/questions/20850213/supercollider-without-jack-server](http://stackoverflow.com/questions/20850213/supercollider-without-jack-server)
+* [http://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx](http://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx)
