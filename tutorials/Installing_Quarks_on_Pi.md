@@ -1,6 +1,6 @@
 # Installing Quarks on Pi
 
-** This tutorial is still in progress **
+*This tutorial is still in progress*
 
 Create a script in SuperCollider called installQuarks.sc
 

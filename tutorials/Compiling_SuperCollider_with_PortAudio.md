@@ -1,6 +1,6 @@
 # Compiling SuperCollider with PortAudio
 
-** This tutorial is still in progress **
+*This tutorial is still in progress*
 
 The goal of this tutorial is to recompile SuperCollider with the PortAudio flag in order to do Capture and Playback with a USB Audio interface without depending on the Jack Driver. My attempts at following the references below were not successful. I plan to return to this at a later time.
 
