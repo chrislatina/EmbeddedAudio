@@ -17,5 +17,5 @@ Overall, Supercollider works well for internal synthesis, but realtime audio pro
 * [Installing Quarks on Pi](/tutorials/Installing_Quarks_on_Pi.md)
 * [Compiling SuperCollider with PortAudio](/tutorials/Compiling_SuperCollider_with_PortAudio.md)
 * [Setting up WIFI with GTother](/tutorials/Setting_up_WIFI_with_GTother.md)
-* Arduino & SuperCollider
+* [Arduino & SuperCollider](/tutorials/Arduino_SuperCollider.md)
 * [Failed Attempts](/tutorials/Failed_Attempts.md)
