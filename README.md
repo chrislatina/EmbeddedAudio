@@ -1,4 +1,4 @@
-# Embedded Music
+# Embedded Audio
 
 _This repository documents how setup embedded devices, such as the Raspberry Pi for development with audio software at GTCMT._
 
