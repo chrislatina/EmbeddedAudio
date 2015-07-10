@@ -29,8 +29,6 @@ netmask 255.255.255.0
 gateway 192.168.2.1
 ```
 
-In OSX, configure your ethernet connection manually to use the IP address: 192.168.2.1. Under Advanced, select DNS and add the public DNS server 8.8.8.8
-
 Lastly open the resolv.conf file by running,
 
 ```sh
@@ -44,7 +42,20 @@ nameserver 192.168.2.1
 nameserver 8.8.8.8
 ```
 
-To test your connection, run
+Now you'll have to reboot the Pi. In OSX, configure your ethernet connection manually to use the IP address: 192.168.2.1. Under Advanced, select DNS and add the public DNS server 8.8.8.8. Go to Sharing and turn on Internet Sharing via Ethernet.
+
+SSH back into the Pi 
+
+```sh
+$ ssh -XY ccrma@192.168.2.2
+```
+
+Note: Getting an RSA key issue? Remove the old key. In the terminal run
+```sh
+ssh-keygen -R 192.168.2.2
+```
+
+When you're back in to test your connection, run
 
 ```sh
 ping google.com
@@ -55,11 +66,6 @@ Now you should be able to use your laptop's internet connection. Note that if yo
 ![Network Error](/images/NetworkError.png)
 
 Also, I'd avoid running sudo apt-get update, as this will disturb the delicately curated versions for the packages used on the CCRMA Satellite build.
-
-Note: Getting an RSA key issue? Remove the old key.
-```sh
-ssh-keygen -R 192.168.2.2
-```
 
 ## References
 * [galem.wordpress.com](https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/)
