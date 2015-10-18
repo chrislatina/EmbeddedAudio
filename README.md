@@ -12,6 +12,7 @@ Overall, Supercollider works well for internal synthesis, but realtime audio pro
 
 * [Setup Your Pi](/tutorials/Setup_Your_Pi.md)
 * [Sharing your network with Pi (OSX)](/tutorials/Sharing_your_network_with_Pi_(OSX).md)
+* [Running Headless (Standalone)](/tutorials/Running_Headless_(Standalone).md)
 * [Running SuperCollider on Pi](/tutorials/Running_SuperCollider_on_Pi.md)
 * [Using a USB Audio Interface with Pi](/tutorials/Using_a_USB_Audio_Interface_with_Pi.md)
 * [Installing Quarks on Pi](/tutorials/Installing_Quarks_on_Pi.md)

@@ -65,7 +65,9 @@ Now you should be able to use your laptop's internet connection. Note that if yo
 
 ![Network Error](/images/NetworkError.png)
 
-Also, I'd avoid running sudo apt-get update, as this will disturb the delicately curated versions for the packages used on the CCRMA Satellite build.
+If this is the case, try switching from GTwifi to GTother. The password is GeorgeP@1927. You will need to login once you open your browser. Now you can share your connection at school.
+
+Also, for now, I'd avoid running sudo apt-get update, as this will disturb the delicately curated versions for the packages used on the CCRMA Satellite build.
 
 ## References
 * [galem.wordpress.com](https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/)
